@@ -1,0 +1,1 @@
+declare module 'fogg-utils'
